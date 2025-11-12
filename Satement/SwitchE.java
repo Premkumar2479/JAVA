@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Switch {
+public class SwitchE {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);  
 
@@ -16,13 +16,13 @@ public class Switch {
                 break;
             case 4 : System.out.println("Wednesday");
                 break;
-            case 5 : System.out.println("Thusday");
+            case 5 : System.out.println("Thursday");
                 break;  
-            case 6 : System.err.println("Friday");
+            case 6 : System.out.println("Friday");
                 break;
-            case 7 : System.out.println("Saturady");
+            case 7 : System.out.println("Saturday");
                 break;
-            default : Syatem.out.println("Invalid day");
+            default : System.out.println("Invalid day");
         }
         sc.close();
     }
