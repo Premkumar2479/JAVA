@@ -1,8 +1,8 @@
-
 public class Practice {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         StringBuilder sb = new StringBuilder("hello");
         System.out.println(sb);
+
     }
 }
