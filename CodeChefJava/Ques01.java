@@ -1,3 +1,6 @@
+package CodeChefJava;
+
+
 import java.util.Scanner;
 
 public class Ques01 {
