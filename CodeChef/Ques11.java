@@ -1,10 +1,9 @@
+import java.util.Scanner;
+
 public class Ques11 {
     public static void main(String[] args){
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int x;
-        x = scanner.nextInt();
-        scanner.close();
-
+        x = sc.nextInt();
     }
-    
 }

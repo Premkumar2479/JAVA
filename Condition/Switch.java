@@ -1,6 +1,6 @@
 package Condition;
 
 public class Switch {
-    publlic stitic 
+    public static 
     
 }
