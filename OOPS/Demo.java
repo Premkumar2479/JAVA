@@ -7,9 +7,3 @@ class Demo {
     }
 }
 
-public class Text {
-    public static void main(String[] args) {
-        Demo r = new Demo();
-        r.show();
-    }
-}

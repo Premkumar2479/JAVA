@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Name {
 
     public static void printName(String name){
-        system.out.println(name);
+        System.out.println(name);
         return ;
     }
 
