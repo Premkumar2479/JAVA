@@ -1,4 +1,4 @@
-package LearnJava.SimpleQues.output.literal;
+package LearnJava.literal;
 
 //Character Literals: Character literals represent a single character and are enclosed 
 // in single quotes ('). For Example:

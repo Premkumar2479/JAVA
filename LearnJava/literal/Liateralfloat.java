@@ -1,4 +1,4 @@
-package LearnJava.SimpleQues.output.literal;
+package LearnJava.literal;
 
 
 //Float Literals:

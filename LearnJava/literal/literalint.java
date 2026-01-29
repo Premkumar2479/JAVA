@@ -1,4 +1,4 @@
-package LearnJava.SimpleQues.output.literal;
+package LearnJava.literal;
 
 class literalint {
    public static void main(String[] args) {

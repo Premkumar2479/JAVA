@@ -1,4 +1,4 @@
-package LearnJava.SimpleQues.output.literal;
+package LearnJava.literal;
 //String Literals: String literals represent a sequence of characters and are
 // c enclosed in double quotes ("). For Example:
 

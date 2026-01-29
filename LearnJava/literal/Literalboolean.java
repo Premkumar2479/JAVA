@@ -1,4 +1,4 @@
-package LearnJava.SimpleQues.output.literal;
+package LearnJava.literal;
 
 //Boolean Literals: Boolean literals represent true or false values in Java. For Example:
 
