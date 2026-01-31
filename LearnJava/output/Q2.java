@@ -1,4 +1,4 @@
-package LearnJava.SimpleQues.output;
+package LearnJava.output;
 
 public class Q2 {
     public static void main(String[] args){

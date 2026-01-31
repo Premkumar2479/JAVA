@@ -1,4 +1,4 @@
-package LearnJava.SimpleQues.output;
+package LearnJava.output;
 
 import java.util.Scanner;
 
