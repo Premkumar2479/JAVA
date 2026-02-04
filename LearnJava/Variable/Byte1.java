@@ -1,6 +1,6 @@
 package LearnJava.Variable;
 
-public class Q2 {
+public class Byte1 {
     public static void main(String[] args) {
         byte maxByte = 127;
         byte minByte = -128;
