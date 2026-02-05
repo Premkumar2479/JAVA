@@ -1,4 +1,6 @@
-// Update the blanks in the code below
+package CodeChefJava;
+
+
 import java.util.Scanner;
 
 class Codechef
