@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class Ques23 {
     public static void main(String[] args){
@@ -6,5 +5,6 @@ public class Ques23 {
         Boolean b=false;
         Boolean c=false;
         System.out.println((a && b) || (c||a));
+
     }
 }

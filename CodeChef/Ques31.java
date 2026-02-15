@@ -9,5 +9,7 @@ class Ques31 {
 
         int remaining = N - (A * B);
         System.out.println(remaining);
+                sc.close();
+
     }
 }

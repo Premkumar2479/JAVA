@@ -11,5 +11,7 @@ public class Ques38 {
         }else{
             System.out.print("no");
         }
+                    sc.close();
+
     }
 }

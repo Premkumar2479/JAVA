@@ -21,6 +21,7 @@ public class Ques40 {
             }
 
             System.out.println(count);
+            sc.close();
         }
     }
 }

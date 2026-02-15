@@ -1,5 +1,5 @@
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class Name {
 
@@ -10,12 +10,13 @@ public class Name {
 
 
 
-    public static void main(String[] args){
-        Scanner sc = new Scanner (System.in);
-        String name = sc.nextLine();
+    // public static void main(String[] args){
+    //     Scanner sc = new Scanner (System.in);
+    //     String name = sc.nextLine();
 
-        printName(name);
+    //     printName(name);
 
+            //sc.close();
 
     }
-}
+

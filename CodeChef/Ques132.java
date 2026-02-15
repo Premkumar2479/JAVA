@@ -10,5 +10,6 @@ public class Ques132 {
         } else {
             System.out.println("No");
         }
+        sc.close();
     }
 }

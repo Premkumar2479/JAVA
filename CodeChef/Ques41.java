@@ -34,5 +34,6 @@ public class Ques41 {
         }
 
         System.out.println(winner + " " + maxLead);
+        sc.close();
     }
 }

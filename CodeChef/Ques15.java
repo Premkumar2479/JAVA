@@ -9,5 +9,5 @@ public class Ques15 {
     System.out.println(""+ first + second);
     }
 
-    
+    scanner.close();
 }

@@ -7,5 +7,7 @@ public class Ques45 {
 
         int cost = Math.min(1000, 200 * N);
         System.out.println(cost);
+                sc.close();
+
     }
 }

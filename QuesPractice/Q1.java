@@ -10,5 +10,8 @@ public class Q1 {
 
         int Total = x*y;
         System.out.println("Enter two values:" + Total);
+                sc.close();
+
     }
+
 }

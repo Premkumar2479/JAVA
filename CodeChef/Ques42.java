@@ -21,5 +21,7 @@ public class Ques42 {
 
             System.out.println(startCount + " " + ltimeCount);
         }
+                    sc.close();
+
     }
 }

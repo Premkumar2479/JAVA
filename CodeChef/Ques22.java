@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class Ques22 {
     public static void main(String[] args){

@@ -10,6 +10,7 @@ public class Ques35 {
 
             System.out.println(total);
             
-        
+                sc.close();
+
     }
 }

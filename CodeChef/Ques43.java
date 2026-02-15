@@ -9,5 +9,7 @@ public class Ques43 {
         int C = sc.nextInt();
 
         System.out.print(A+B+C);
+                    sc.close();
+
     }
 }

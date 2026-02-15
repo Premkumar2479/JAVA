@@ -13,5 +13,7 @@ class Ques55 {
         } else {
             System.out.println("NO");
         }
+                sc.close();
+
     }
 }

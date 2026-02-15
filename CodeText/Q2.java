@@ -15,6 +15,7 @@ public class Q2
     } else {
         System.out.println("Not In Range");
     }
+            sc.close();
 
 	}
 }

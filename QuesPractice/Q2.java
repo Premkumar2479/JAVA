@@ -10,6 +10,7 @@ public class Q2 {
 
         int total = x+y;
         System.out.println(total);
+        sc.close();
 
     }
 

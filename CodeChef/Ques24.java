@@ -12,6 +12,8 @@ public class Ques24 {
         }else{
             System.out.println("Does not divide by both 3 and 5");
         }
+                sc.close();
+
         }
     }
 

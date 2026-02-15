@@ -10,5 +10,7 @@ public class Ques26 {
         }else{
             System.out.println("out of Range");
         }
+                scanner.close();
+
     }
 }

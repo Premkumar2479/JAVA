@@ -10,6 +10,6 @@ public class Q1 {
         int total = x*y;
 
         System.out.println("Multiple of two number :" + total);
-
+        sc.close();
     }
 }
